@@ -50,7 +50,7 @@ const Footer = () => (
 
     <div className="border-t border-slate-800">
       <div className="max-w-6xl mx-auto px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500">
-        <span>© {year} DevFolio. All rights reserved.</span>
+        <span>© {year} StackNova. All rights reserved.</span>
         <span>Built with React, Tailwind CSS &amp; Express.</span>
       </div>
     </div>
